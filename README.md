@@ -18,7 +18,7 @@
 ## 📫 Me contacter
 
 - ✉️ sollier.mathieu@gmail.com
-- 🌍 [LinkedIn](https://www.linkedin.com/in/ton-profil) *(à adapter)*
+- 🌍 [LinkedIn]([https://www.linkedin.com/in/ton-profil](https://www.linkedin.com/in/mathieu-sollier-1a59341a1/)) *(à adapter)*
 - 📍 Clichy, France | Freelance disponible
 
 ---
