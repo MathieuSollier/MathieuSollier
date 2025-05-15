@@ -1,4 +1,4 @@
-# 👋 Salut, moi c'est Mathieu Sollier
+# 👋 Bonjour, moi c'est Mathieu Sollier
 
 🎯 **Développeur Full Stack & DevOps**, je conçois des solutions logicielles robustes, sécurisées et performantes, notamment dans des secteurs sensibles comme la **santé** ou l’**industrie**.
 
