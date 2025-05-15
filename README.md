@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👨‍💻 Développeur Full Stack | Microservices
 
-<!--
-**MathieuSollier/MathieuSollier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bonjour ! Je suis Mathieu, développeur full stack avec une expertise dans les systèmes sensibles et la sécurité (Zero Trust, ISO 27001). J’aide les entreprises à concevoir des architectures logicielles robustes, scalables et sécurisées.
 
-Here are some ideas to get you started:
+🔐 Spécialisé en environnements sensibles : médical, industrie, systèmes embarqués  
+⚙️ Backend : Java (Spring WebFlux), Node.js | Frontend : React, Svelte, React Native  
+🗃️ BDD : PostgreSQL, MongoDB | CI/CD, Bare Metal, Infrastructure as Code  
+🚀 Passionné d’innovation, mentor et formateur en bonnes pratiques de dev & sécurité
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Compétences clés
+
+- Architecture microservices sécurisée (Zero Trust)
+- Développement full stack réactif (Spring/Node.js & React/Svelte)
+- Déploiement et supervision bare metal
+- Contributions ISO 27001 / SIEM / DevSecOps
+- Encadrement technique & vulgarisation
+
+
+## 📫 Me contacter
+
+- LinkedIn : [https://www.linkedin.com/in/mathieu-sollier-1a59341a1/](#)
+- Mail : `sollier.mathieu@gmail.com`
