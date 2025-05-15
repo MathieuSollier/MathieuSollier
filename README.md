@@ -1,6 +1,6 @@
 # 👨‍💻 Mathieu Sollier
 
-🎯 Développeur Full Stack & DevOps — Expert en systèmes sensibles & sécurité (Zero Trust, ISO 27001)
+🎯 Développeur Full Stack dans les systèmes sensibles (Zero Trust, ISO 27001)
 
 Je conçois des plateformes souveraines, sécurisées et performantes dans des environnements critiques : santé, industrie, data confidentielle. Passionné par l’architecture logicielle, la scalabilité et la sécurité, je mets la technique au service de l’usage métier.
 
