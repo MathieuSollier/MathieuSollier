@@ -23,18 +23,33 @@
 
 ---
 
-## ⚙️ Stack technique
+## ⚙️ Stack Technique
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+### 🧩 Développement Frontend
+- HTML, CSS, JavaScript, TypeScript
+- React, React Native, SvelteJS
+
+### 🧪 Développement Backend
+- Java (Spring, Spring WebFlux)
+- Node.js (Express, Nest.js)
+
+### 🗃️ Bases de Données
+- PostgreSQL, MongoDB
+
+### 🔐 Sécurité & Conformité
+- Zero Trust, ISO 27001, cryptographie (AES, RSA)
+- OAuth 2.0, JWT, SSO
+- OpenVAS, GLPI
+- Rkhunter, Chkrootkit
+
+### ⚙️ DevOps & Outils
+- GitLab, GitLab CI
+- Prometheus, Grafana, cAdvisor
+- ELK Stack (Filebeat/Logstash/Kibana)
+- Docker
+- SonarQube (qualité code)
+- MEP & création d’environnements
+- Nginx, Envoy
 
 ---
-
-> 🎯 **Disponible pour missions freelance**
 
